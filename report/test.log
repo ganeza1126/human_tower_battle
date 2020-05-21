@@ -1,0 +1,1388 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.21)  4 MAR 2019 13:33
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/akase/jpro/test.tex
+(/Users/akase/jpro/test.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+
+/usr/local/texlive/2018/texmf-dist/tex/platex/jsclasses/jsarticle.cls:26: LaTeX Error: This file needs format `pLaTeX2e'
+               but this is `LaTeX2e'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \NeedsTeXFormat{pLaTeX2e}
+                              
+The current input file will not be processed further,
+because it was written for some other flavor of TeX.
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 99.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: dvipdfmx.def on input line 147.
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen104
+\captionmargin@=\dimen105
+\captionwidth=\dimen106
+\caption@tempdima=\dimen107
+\caption@indent=\dimen108
+\caption@parindent=\dimen109
+\caption@hangindent=\dimen110
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = undefined.
+\c@ContinuedFloat=\count80
+)) (/Users/akase/jpro/test.aux)
+\openout1 = `test.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+
+/Users/akase/jpro/test.tex:13: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \begin{document}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+/Users/akase/jpro/test.tex:14: Undefined control sequence.
+l.14 \maketitle
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/akase/jpro/test.tex:16: Undefined control sequence.
+l.16 \section
+             {ゲームの説明}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/Users/akase/jpro/test.tex:16: Package inputenc Error: Unicode character ゲ (U+30B2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \section{ゲ
+                 ームの説明}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:16: Package inputenc Error: Unicode character ー (U+30FC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \section{ゲー
+                    ムの説明}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:16: Package inputenc Error: Unicode character ム (U+30E0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \section{ゲーム
+                       の説明}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:16: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \section{ゲームの
+                          説明}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:16: Package inputenc Error: Unicode character 説 (U+8AAC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \section{ゲームの説
+                             明}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:16: Package inputenc Error: Unicode character 明 (U+660E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \section{ゲームの説明
+                                }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character 自 (U+81EA)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 自
+        主プロジェクトでにんげんタワーバトルを製作し�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character 主 (U+4E3B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 自主
+           プロジェクトでにんげんタワーバトルを製作し�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character プ (U+30D7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 自主プ
+              ロジェクトでにんげんタワーバトルを製作し�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character ロ (U+30ED)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 自主プロ
+                 ジェクトでにんげんタワーバトルを製作し�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character ジ (U+30B8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 自主プロジ
+                    ェクトでにんげんタワーバトルを製作し�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character ェ (U+30A7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 自主プロジェ
+                       クトでにんげんタワーバトルを製作し�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character ク (U+30AF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 自主プロジェク
+                          トでにんげんタワーバトルを製作し�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character ト (U+30C8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 自主プロジェクト
+                             でにんげんタワーバトルを製作し�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character で (U+3067)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 自主プロジェクトで
+                                にんげんタワーバトルを製作し�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character に (U+306B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 自主プロジェクトでに
+                                   んげんタワーバトルを製作し�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character ん (U+3093)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 自主プロジェクトでにん
+                                      げんタワーバトルを製作し�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character げ (U+3052)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 自主プロジェクトでにんげ
+                                         んタワーバトルを製作し�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character ん (U+3093)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 自主プロジェクトでにんげん
+                                            タワーバトルを製作し�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character タ (U+30BF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 自主プロジェクトでにんげんタ
+                                               ワーバトルを製作し�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character ワ (U+30EF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 自主プロジェクトでにんげんタワ
+                                                  ーバトルを製作し�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character ー (U+30FC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...プロジェクトでにんげんタワー
+                                                  バトルを製作した．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character バ (U+30D0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...ロジェクトでにんげんタワーバ
+                                                  トルを製作した．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character ト (U+30C8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...ジェクトでにんげんタワーバト
+                                                  ルを製作した．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character ル (U+30EB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...ェクトでにんげんタワーバトル
+                                                  を製作した．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character を (U+3092)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...クトでにんげんタワーバトルを
+                                                  製作した．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character 製 (U+88FD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...トでにんげんタワーバトルを製
+                                                  作した．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character 作 (U+4F5C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...でにんげんタワーバトルを製作
+                                                  した．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character し (U+3057)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...にんげんタワーバトルを製作し
+                                                  た．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character た (U+305F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...んげんタワーバトルを製作した
+                                                  ．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:17: Package inputenc Error: Unicode character ． (U+FF0E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...げんタワーバトルを製作した．
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character こ (U+3053)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 こ
+        のゲームは有名なスマートフォンアプリのどうぶ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 この
+           ゲームは有名なスマートフォンアプリのどうぶ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ゲ (U+30B2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 このゲ
+              ームは有名なスマートフォンアプリのどうぶ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ー (U+30FC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 このゲー
+                 ムは有名なスマートフォンアプリのどうぶ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ム (U+30E0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 このゲーム
+                    は有名なスマートフォンアプリのどうぶ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character は (U+306F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 このゲームは
+                       有名なスマートフォンアプリのどうぶ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character 有 (U+6709)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 このゲームは有
+                          名なスマートフォンアプリのどうぶ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character 名 (U+540D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 このゲームは有名
+                             なスマートフォンアプリのどうぶ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character な (U+306A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 このゲームは有名な
+                                スマートフォンアプリのどうぶ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ス (U+30B9)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 このゲームは有名なス
+                                   マートフォンアプリのどうぶ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character マ (U+30DE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 このゲームは有名なスマ
+                                      ートフォンアプリのどうぶ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ー (U+30FC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 このゲームは有名なスマー
+                                         トフォンアプリのどうぶ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ト (U+30C8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 このゲームは有名なスマート
+                                            フォンアプリのどうぶ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character フ (U+30D5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 このゲームは有名なスマートフ
+                                               ォンアプリのどうぶ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ォ (U+30A9)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 このゲームは有名なスマートフォ
+                                                  ンアプリのどうぶ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ン (U+30F3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ゲームは有名なスマートフォン
+                                                  アプリのどうぶつ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ア (U+30A2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ームは有名なスマートフォンア
+                                                  プリのどうぶつタ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character プ (U+30D7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ムは有名なスマートフォンアプ
+                                                  リのどうぶつタワ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character リ (U+30EA)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...は有名なスマートフォンアプリ
+                                                  のどうぶつタワー�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...有名なスマートフォンアプリの
+                                                  どうぶつタワーバ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ど (U+3069)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...名なスマートフォンアプリのど
+                                                  うぶつタワーバト�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character う (U+3046)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...なスマートフォンアプリのどう
+                                                  ぶつタワーバトル�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ぶ (U+3076)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...スマートフォンアプリのどうぶ
+                                                  つタワーバトルを�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character つ (U+3064)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...マートフォンアプリのどうぶつ
+                                                  タワーバトルを応�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character タ (U+30BF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ートフォンアプリのどうぶつタ
+                                                  ワーバトルを応用�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ワ (U+30EF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...トフォンアプリのどうぶつタワ
+                                                  ーバトルを応用し�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ー (U+30FC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...フォンアプリのどうぶつタワー
+                                                  バトルを応用して�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character バ (U+30D0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ォンアプリのどうぶつタワーバ
+                                                  トルを応用して作�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ト (U+30C8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ンアプリのどうぶつタワーバト
+                                                  ルを応用して作っ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ル (U+30EB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...アプリのどうぶつタワーバトル
+                                                  を応用して作った�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character を (U+3092)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...プリのどうぶつタワーバトルを
+                                                  応用して作ったも�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character 応 (U+5FDC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...リのどうぶつタワーバトルを応
+                                                  用して作ったもの�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character 用 (U+7528)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...のどうぶつタワーバトルを応用
+                                                  して作ったもので�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character し (U+3057)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...どうぶつタワーバトルを応用し
+                                                  て作ったものであ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character て (U+3066)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...うぶつタワーバトルを応用して
+                                                  作ったものである�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character 作 (U+4F5C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ぶつタワーバトルを応用して作
+                                                  ったものである．�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character っ (U+3063)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...つタワーバトルを応用して作っ
+                                                  たものである．ま�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character た (U+305F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...タワーバトルを応用して作った
+                                                  ものである．まず�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character も (U+3082)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ワーバトルを応用して作ったも
+                                                  のである．まず，�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ーバトルを応用して作ったもの
+                                                  である．まず，に�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character で (U+3067)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...バトルを応用して作ったもので
+                                                  ある．まず，にん�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character あ (U+3042)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...トルを応用して作ったものであ
+                                                  る．まず，にんげ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character る (U+308B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ルを応用して作ったものである
+                                                  ．まず，にんげん�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ． (U+FF0E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...を応用して作ったものである．
+                                                  まず，にんげんタ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ま (U+307E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...応用して作ったものである．ま
+                                                  ず，にんげんタワ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ず (U+305A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...用して作ったものである．まず
+                                                  ，にんげんタワー�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ， (U+FF0C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...して作ったものである．まず，
+                                                  にんげんタワーバ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character に (U+306B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...て作ったものである．まず，に
+                                                  んげんタワーバト�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ん (U+3093)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...作ったものである．まず，にん
+                                                  げんタワーバトル�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character げ (U+3052)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ったものである．まず，にんげ
+                                                  んタワーバトルの�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ん (U+3093)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...たものである．まず，にんげん
+                                                  タワーバトルの説�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character タ (U+30BF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ものである．まず，にんげんタ
+                                                  ワーバトルの説明�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ワ (U+30EF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...のである．まず，にんげんタワ
+                                                  ーバトルの説明の�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ー (U+30FC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...である．まず，にんげんタワー
+                                                  バトルの説明の前�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character バ (U+30D0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ある．まず，にんげんタワーバ
+                                                  トルの説明の前に�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ト (U+30C8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...る．まず，にんげんタワーバト
+                                                  ルの説明の前に，�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ル (U+30EB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...．まず，にんげんタワーバトル
+                                                  の説明の前に，ど�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...まず，にんげんタワーバトルの
+                                                  説明の前に，どう�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character 説 (U+8AAC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ず，にんげんタワーバトルの説
+                                                  明の前に，どうぶ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character 明 (U+660E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...，にんげんタワーバトルの説明
+                                                  の前に，どうぶつ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...にんげんタワーバトルの説明の
+                                                  前に，どうぶつタ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character 前 (U+524D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...んげんタワーバトルの説明の前
+                                                  に，どうぶつタワ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character に (U+306B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...げんタワーバトルの説明の前に
+                                                  ，どうぶつタワー�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ， (U+FF0C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...んタワーバトルの説明の前に，
+                                                  どうぶつタワーバ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/akase/jpro/test.tex:18: Package inputenc Error: Unicode character ど (U+3069)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...タワーバトルの説明の前に，ど
+                                                  うぶつタワーバト�...
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 1681 strings out of 492649
+ 27629 string characters out of 6129622
+ 95526 words of memory out of 5000000
+ 5616 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,0n,40p,291b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+/Users/akase/jpro/test.tex:18:  ==> Fatal error occurred, no output PDF file produced!
