@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/jproassets/start.unity
+- path: Assets/jproassets/main.unity
   isLoaded: 1
   isActive: 1
